@@ -1,4 +1,4 @@
-Funding: 10k DOGEC for faucet staking, 10k for dev+emergency faucet funds, 700 for mistakes
+Funding: 10k DOGEC for faucet staking, 10k for dev+emergency faucet funds, 1050 for mistakes
 
 Title: Discord Faucet
 
