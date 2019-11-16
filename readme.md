@@ -4,7 +4,7 @@ Title: Discord Faucet
 
 Author: joe_land1
 
-Address: D7uEXrXJnZkTJZjn6eHDY9F1GLRcz6VomP
+Address: D5BYsQJk2MqKbd76MzyxhGh8QL1hHY7nUp
 
 Receiver: joe_land1
 
